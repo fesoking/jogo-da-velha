@@ -9,13 +9,13 @@ body {
 .square {
     text-align: center;
     width: 50px;
-    background: #eee;
+    background: #FFF8DC;
     display: inline-block;
     padding: 40px;
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
-    color: #eee;
+    color: #90EE90;
 }
 
 .gamer, .winner {
