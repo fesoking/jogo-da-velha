@@ -15,7 +15,7 @@ body {
     font-size: 60px;
     margin: 5px;
     cursor: pointer;
-    color: #90EE90;
+    color: #eee;
 }
 
 .gamer, .winner {
@@ -27,7 +27,7 @@ button {
     margin-top: 10px;
     width: 100px;
     height: 30px;
-    background: #eee;
+    background: #90EE90;
     cursor: pointer;
 }
 
